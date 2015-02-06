@@ -78,3 +78,5 @@ soi.config.extend({
     }
   }
 });
+
+soi.loadPlugin('soi-optimizer');
