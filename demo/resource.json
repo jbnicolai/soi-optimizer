@@ -1,218 +1,218 @@
 {
     "img": {
-        "d:/Develop/soi/demo/optimizer/assets/img/banner.png": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/img/banner.png": {
             "type": "img",
-            "origin": "d:/Develop/soi/demo/optimizer/assets/img/",
-            "path": "d:/Develop/soi/demo/optimizer/assets/img/banner.png",
+            "origin": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/img/",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/img/banner.png",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/img/",
-            "distPath": "d:/Develop/soi/demo/optimizer/dist/img/banner_671eaeda.png"
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/img/",
+            "distPath": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/img/banner_671eaeda.png"
         }
     },
     "js": {
-        "d:/Develop/soi/demo/optimizer/lib/util/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/util/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/util/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/util/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/string/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/string/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/string/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/string/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/ua/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/ua/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/ua/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/ua/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/array/array.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/array/array.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/array/array.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/array/array.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/math/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/math/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/dom/browserfeature.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/browserfeature.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/dom/browserfeature.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/browserfeature.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/dom/classes.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/classes.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/dom/classes.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/classes.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/dom/nodetype.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/nodetype.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/dom/nodetype.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/nodetype.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/math/coordinate.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/coordinate.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/math/coordinate.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/coordinate.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/math/size.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/size.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/math/size.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/size.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/object/object.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/object/object.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/object/object.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/object/object.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/debug/error.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/error.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/debug/error.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/error.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/asserts/error.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/error.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/asserts/error.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/error.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/asserts/asserts.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/asserts.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/asserts/asserts.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/asserts.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/listener.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listener.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/listener.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listener.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/listenermap.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listenermap.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/listenermap.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listenermap.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/eventbase.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventbase.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/eventbase.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventbase.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/disposable/disposable.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/disposable/disposable.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/disposable/disposable.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/disposable/disposable.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/eventtype.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtype.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/eventtype.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtype.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/browserfeature.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserfeature.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/browserfeature.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserfeature.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/debug/entrypointregistry.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/entrypointregistry.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/debug/entrypointregistry.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/entrypointregistry.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/eventtarget.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtarget.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/eventtarget.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtarget.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/browserevent.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserevent.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/browserevent.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserevent.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/dom/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/dom/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/eventType.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventType.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/eventType.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventType.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/lib/events/util.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/util.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/lib/events/util.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/util.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         },
-        "d:/Develop/soi/demo/optimizer/assets/js/app.js": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/app.js": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/assets/js/app.js",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/app.js",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/js/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/",
             "type": "js"
         }
     },
     "css": {
-        "d:/Develop/soi/demo/optimizer/assets/css/reset.css": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/reset.css": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/assets/css/reset.css",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/reset.css",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/css/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/css/",
             "type": "css"
         },
-        "d:/Develop/soi/demo/optimizer/assets/css/main.css": {
+        "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/main.css": {
             "origin": null,
-            "path": "d:/Develop/soi/demo/optimizer/assets/css/main.css",
+            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/main.css",
             "encoding": "utf8",
-            "distDir": "d:/Develop/soi/demo/optimizer/dist/css/",
+            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/css/",
             "type": "css"
         }
     },
@@ -222,59 +222,59 @@
     "htc": {},
     "pkgs": {
         "js": {
-            "d:/Develop/soi/demo/optimizer/assets/js/cal.js": {
+            "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/cal.js": {
                 "type": "js",
-                "input": "d:/Develop/soi/demo/optimizer/assets/js/cal.js",
+                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/cal.js",
                 "files": [
-                    "d:/Develop/soi/demo/optimizer/assets/js/cal.js"
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/cal.js"
                 ],
-                "dist_file": "d:/Develop/soi/demo/optimizer/dist/js/cal_8e2c0526.js"
+                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/cal_8e2c0526.js"
             },
-            "d:/Develop/soi/demo/optimizer/assets/js/app.js": {
+            "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/app.js": {
                 "type": "js",
-                "input": "d:/Develop/soi/demo/optimizer/assets/js/app.js",
+                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/app.js",
                 "files": [
-                    "d:/Develop/soi/demo/optimizer/lib/kernel.js",
-                    "d:/Develop/soi/demo/optimizer/lib/util/util.js",
-                    "d:/Develop/soi/demo/optimizer/lib/string/util.js",
-                    "d:/Develop/soi/demo/optimizer/lib/ua/util.js",
-                    "d:/Develop/soi/demo/optimizer/lib/array/array.js",
-                    "d:/Develop/soi/demo/optimizer/lib/math/util.js",
-                    "d:/Develop/soi/demo/optimizer/lib/dom/browserfeature.js",
-                    "d:/Develop/soi/demo/optimizer/lib/dom/classes.js",
-                    "d:/Develop/soi/demo/optimizer/lib/dom/nodetype.js",
-                    "d:/Develop/soi/demo/optimizer/lib/math/coordinate.js",
-                    "d:/Develop/soi/demo/optimizer/lib/math/size.js",
-                    "d:/Develop/soi/demo/optimizer/lib/object/object.js",
-                    "d:/Develop/soi/demo/optimizer/lib/debug/error.js",
-                    "d:/Develop/soi/demo/optimizer/lib/asserts/error.js",
-                    "d:/Develop/soi/demo/optimizer/lib/asserts/asserts.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/listener.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/listenermap.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/eventbase.js",
-                    "d:/Develop/soi/demo/optimizer/lib/disposable/disposable.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/eventtype.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/browserfeature.js",
-                    "d:/Develop/soi/demo/optimizer/lib/debug/entrypointregistry.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/eventtarget.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/browserevent.js",
-                    "d:/Develop/soi/demo/optimizer/lib/dom/util.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/eventType.js",
-                    "d:/Develop/soi/demo/optimizer/lib/events/util.js",
-                    "d:/Develop/soi/demo/optimizer/assets/js/app.js"
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/kernel.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/util/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/string/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/ua/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/array/array.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/browserfeature.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/classes.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/nodetype.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/coordinate.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/math/size.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/object/object.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/error.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/error.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/asserts/asserts.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listener.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/listenermap.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventbase.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/disposable/disposable.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtype.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserfeature.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/debug/entrypointregistry.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventtarget.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/browserevent.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/dom/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/eventType.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/lib/events/util.js",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/js/app.js"
                 ],
-                "dist_file": "d:/Develop/soi/demo/optimizer/dist/js/build_d60f36bd.js"
+                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/js/build_d60f36bd.js"
             }
         },
         "css": {
-            "d:/Develop/soi/demo/optimizer/assets/css/main.css": {
+            "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/main.css": {
                 "type": "css",
-                "input": "d:/Develop/soi/demo/optimizer/assets/css/main.css",
+                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/main.css",
                 "files": [
-                    "d:/Develop/soi/demo/optimizer/assets/css/reset.css",
-                    "d:/Develop/soi/demo/optimizer/assets/css/main.css"
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/reset.css",
+                    "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/assets/css/main.css"
                 ],
-                "dist_file": "d:/Develop/soi/demo/optimizer/dist/css//build1_9b3dbd04.css"
+                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/demo/dist/css//build1_9b3dbd04.css"
             }
         }
     }
