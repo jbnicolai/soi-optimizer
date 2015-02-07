@@ -1,11 +1,11 @@
 {
   "name": "soi-optimizer",
-  "version": "0.1.1",
-  "description": "Optimizer plugin for S.O.I",
+  "version": "0.1.2",
+  "description": "Optimizer plugin for S.O.I runner",
   "directories": {
     "test": "tests"
   },
-  "main": "boot.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "mocha --timeout 60000 ./tests/**/*-Spec.js"
   },
