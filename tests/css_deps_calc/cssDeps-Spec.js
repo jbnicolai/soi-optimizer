@@ -14,7 +14,7 @@ describe('css dependency calculate', function() {
     optimizer = require(base.optimizer_dir + '/index');
     //soi.loadPlugin('soi-optimizer');
 
-    soi().use('soi-optimizer').go();
+    soi().use(optimizer).go();
   });
 
   after(function() {

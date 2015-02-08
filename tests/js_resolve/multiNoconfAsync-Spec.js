@@ -39,7 +39,7 @@ describe('multi async cases', function() {
     ResourceTable = require(base.optimizer_dir + '/resource/table');
     ModuleManager = require(base.optimizer_dir + '/module/manager');
     optimizer = require(base.optimizer_dir + '/index');
-    soi().use('soi-optimizer').go();
+    soi().use(optimizer).go();
   });
 
   after(function() {

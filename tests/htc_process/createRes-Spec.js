@@ -31,7 +31,7 @@ describe('htc relative cases', function() {
     utils = require(base.optimizer_dir + '/utils');
     ResourceTable = require(base.optimizer_dir + '/resource/table');
     optimizer = require(base.optimizer_dir + '/index');
-    soi().use('soi-optimizer').go();
+    soi().use(optimizer).go();
   });
 
   after(function() {
