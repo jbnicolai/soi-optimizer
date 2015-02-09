@@ -1,18 +1,18 @@
 {
     "img": {},
     "js": {
-        "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/l.js": {
+        "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/l.js": {
             "origin": null,
-            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/l.js",
+            "path": "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/l.js",
             "encoding": "utf8",
-            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/dist/",
+            "distDir": "D:/Develop/soi-optimizer/tests/js_resolve/dist/",
             "type": "js"
         },
-        "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/main.js": {
+        "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/main.js": {
             "origin": null,
-            "path": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/main.js",
+            "path": "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/main.js",
             "encoding": "utf8",
-            "distDir": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/dist/",
+            "distDir": "D:/Develop/soi-optimizer/tests/js_resolve/dist/",
             "type": "js"
         }
     },
@@ -23,33 +23,33 @@
     "htc": {},
     "pkgs": {
         "js": {
-            "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/n.js": {
+            "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/n.js": {
                 "type": "js",
-                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/n.js",
+                "input": "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/n.js",
                 "files": [
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/o.js",
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/n.js"
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/o.js",
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/n.js"
                 ],
-                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/dist/n_2911897d.js"
+                "dist_file": "D:/Develop/soi-optimizer/tests/js_resolve/dist/n_d57b59b5.js"
             },
-            "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/m.js": {
+            "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/m.js": {
                 "type": "js",
-                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/m.js",
+                "input": "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/m.js",
                 "files": [
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/o.js",
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/m.js"
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/o.js",
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/m.js"
                 ],
-                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/dist/m_9eead4f5.js"
+                "dist_file": "D:/Develop/soi-optimizer/tests/js_resolve/dist/m_65a6d7ed.js"
             },
-            "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/main.js": {
+            "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/main.js": {
                 "type": "js",
-                "input": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/main.js",
+                "input": "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/main.js",
                 "files": [
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/lib/kernel.js",
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/l.js",
-                    "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/multi_noconflict/main.js"
+                    "D:/Develop/soi-optimizer/lib/kernel.js",
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/l.js",
+                    "D:/Develop/soi-optimizer/tests/js_resolve/multi_noconflict/main.js"
                 ],
-                "dist_file": "/Users/acemood/WorkSpace/Git/soi-optimizer/tests/js_resolve/dist/main_fa1f81a1.js"
+                "dist_file": "D:/Develop/soi-optimizer/tests/js_resolve/dist/main_7e76e1af.js"
             }
         },
         "css": {}

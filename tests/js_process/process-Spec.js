@@ -110,10 +110,10 @@ describe('js process cases', function() {
     content.shift();
     content = content.join('');
 
-    expect(content).to.equal(';_def("_3",[],{key:"c"});' +
-      ';_def("_2",["_3"],function(){return{key:"b"}});' +
-      ';_def("_1",["_2"],function(){return{key:"a"}});' +
-      ';_req(["_1"],function(){});');
+    expect(content).to.equal(';define("_3",[],{key:"c"});' +
+      ';define("_2",["_3"],function(){return{key:"b"}});' +
+      ';define("_1",["_2"],function(){return{key:"a"}});' +
+      ';require(["_1"],function(){});');
   });
 
 });
