@@ -6,34 +6,35 @@
 
 <style></style>
 
-##soi是什么?
-S.O.I (Smart Optimization Integration) 是和[oslojs](https://github.com/Saber-Team/oslojs)
-一同使用的一款浏览器端JavaScript构建工具, 基于Node开发。[oslojs](https://github.com/Saber-Team/oslojs)
-是一个符合AMD规范的高度模块化的JavaScript框架, 在浏览器端尤其表现卓越, 并且也支持移动端开发.
-soi针对单页面打包设置，若多页面可多次执行soi optimize命令。
+## soi-optimizer是什么
+soi-optimizer是S.O.I (Smart Optimization Integration)的一个基础插件, 最早就是soi工具本身的功能,
+提供项目代码打包功能, 随后由于soi旨在构建一个工程化平台, 遂将optimizer功能拆分成插件. soi-optimizer
+目前针对单页面打包设置，若多页面可多次执行soi optimize命令。
 
-##安装soi
+## 安装soi-optimizer
 确保本地安装了Node环境, 通过包管理器NPM进行安装.
 
 运行：
 ```javascript
   npm install -g soi-cli
-```
-安装soi的命令行交互工具, 需要加-g全局安装标志.
-接着运行：
-```javascript
   npm install -g soi
 ```
+安装soi的命令行交互工具, 需要加-g全局安装标志.
 安装soi, 建议加-g全局安装标志, 这样可以在任意目录使用soi构建前端项目.
 
-##使用soi
+接着运行：
+```javascript
+  npm install -g soi-optimizer
+```
+
+## 使用soi optimizer
 在任意目录建立你的代码仓库, 开发完毕后在此目录添加配置文件：
 ```
   soi.conf.js
 ```
-在soi的安装目录demo下会有个示例文件, 是针对soi本身的打包设置;
+在soi-optimizer的安装目录demo下会有个示例文件;
 
-##soi optimize配置项
+## soi optimize配置项
 #### encoding
 源码文件采用的编码方式, 枚举值可用'utf8', 'ascii', 'base64'。
 
@@ -51,6 +52,22 @@ soi针对单页面打包设置，若多页面可多次执行soi optimize命令�
 
 #### module_loader
 soi支持代码以AMD方式编写，所以需要模块加载器作为输入，这里提供的加载器文件会在首屏打包文件的第一个位置出现。
+
+#### global_require
+全局require方法的代替函数名, 方便压缩, 如果不用kerneljs作为加载器可指定你自己的全局导出短名称。
+如:
+```javascript
+  window.require = window.r = require;
+```
+此处只要填写'r'即可, 打包输出会进行替换.
+
+#### global_define
+全局define方法的代替函数名, 方便压缩, 如果不用kerneljs作为加载器可指定你自己的全局导出短名称。
+如:
+```javascript
+  window.define = window.d = define;
+```
+此处只要填写'd'即可, 打包输出会进行替换.
 
 #### output_base
 这是一个相对路径，基于soi.conf.js解析，意义是页面的所在位置（目录），目前用到css资源打包的时候含有滤镜的
