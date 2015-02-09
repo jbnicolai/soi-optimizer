@@ -13,7 +13,15 @@ soi.config.extend({
 
     // js module loader #requirejs
     // module_loader   :  './demo/lib/kernel.js',
-    module_loader   :  './lib/kernel.js',
+    module_loader   : './lib/kernel.js',
+
+    // function name export as global.require for minifying
+    // compressed code.
+    global_require  : "_req",
+
+    // function name export as global.define for minifying
+    // compressed code.
+    global_define   : "_def",
 
     // If debug set to true, output_file_base could be work together with output_file
     // it's the directory where template located
