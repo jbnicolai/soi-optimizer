@@ -32,7 +32,7 @@
   "homepage": "https://github.com/Saber-Team/soi-optimizer",
   "devDependencies": {
     "chai": "^1.10.0",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "css": "^2.1.0",
     "mocha": "^2.0.1",
     "optimist": "^0.6.1",
@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "chai": "^1.10.0",
-    "chalk": "^0.5.1",
+    "chalk": "^1.0.0",
     "css": "^2.1.0",
     "mocha": "^2.0.1",
     "optimist": "^0.6.1",
